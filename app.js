@@ -1,0 +1,3 @@
+var Chat = (function () {
+  // Module's code here...
+})()
